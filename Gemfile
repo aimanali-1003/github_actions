@@ -60,8 +60,7 @@ group :development, :test do
   gem 'rubocop-performance'
   gem 'rubocop-rails'
   gem 'rubocop-rspec'
-  gem 'simplecov'
-  gem 'simplecov-rcov'
+ 
 end
 
 group :development do
@@ -80,5 +79,7 @@ group :test do
   gem "capybara"
   gem 'shoulda-callback-matchers', '~> 1.1.1'
   gem 'shoulda-matchers', '~> 4.0'
+  gem 'simplecov'
+  gem 'simplecov-rcov'
 
 end
