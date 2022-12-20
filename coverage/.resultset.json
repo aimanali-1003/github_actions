@@ -3,6 +3,8 @@
     "coverage": {
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/spec/controllers/posts_controller_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
@@ -99,6 +101,8 @@
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/environment.rb": {
         "lines": [
           null,
+          null,
+          null,
           1,
           null,
           null,
@@ -107,6 +111,8 @@
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/application.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
@@ -133,6 +139,8 @@
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/boot.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
@@ -141,6 +149,8 @@
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/environments/test.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           null,
@@ -208,6 +218,8 @@
           null,
           null,
           null,
+          null,
+          null,
           1,
           null,
           null,
@@ -245,11 +257,14 @@
           null,
           null,
           null,
+          null,
           null
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/initializers/filter_parameter_logging.rb": {
         "lines": [
+          null,
+          null,
           null,
           null,
           null,
@@ -262,6 +277,7 @@
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/initializers/inflections.rb": {
         "lines": [
+          null,
           null,
           null,
           null,
@@ -292,21 +308,14 @@
           null,
           null,
           null,
+          null,
           null
-        ]
-      },
-      "/home/dev/test_projects/GITHUB_ACTIONS_TEST/spec/factories/comments.rb": {
-        "lines": [
-
-        ]
-      },
-      "/home/dev/test_projects/GITHUB_ACTIONS_TEST/spec/factories/posts.rb": {
-        "lines": [
-
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/config/routes.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           1,
@@ -320,62 +329,55 @@
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/helpers/application_helper.rb": {
         "lines": [
+          null,
+          null,
           1,
           null
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/helpers/comments_helper.rb": {
         "lines": [
+          null,
+          null,
           1,
           null
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/helpers/posts_helper.rb": {
         "lines": [
+          null,
+          null,
           1,
           null
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/controllers/posts_controller.rb": {
         "lines": [
-          1,
-          1,
           null,
           null,
           1,
           1,
           null,
           null,
-          null,
+          1,
           1,
           null,
           null,
           null,
           1,
-          0,
-          null,
-          null,
-          null,
-          1,
-          null,
           null,
           null,
           1,
           0,
           null,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          null,
-          null,
           null,
           null,
           1,
+          null,
+          null,
+          1,
+          0,
+          null,
           0,
           0,
           0,
@@ -390,6 +392,19 @@
           null,
           1,
           0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
           null,
           0,
           0,
@@ -398,6 +413,7 @@
           null,
           null,
           1,
+          null,
           null,
           1,
           0,
@@ -412,24 +428,30 @@
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/controllers/application_controller.rb": {
         "lines": [
+          null,
+          null,
           1,
           null
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/models/post.rb": {
         "lines": [
+          null,
+          null,
           1,
           null
         ]
       },
       "/home/dev/test_projects/GITHUB_ACTIONS_TEST/app/models/application_record.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           null
         ]
       }
     },
-    "timestamp": 1671541164
+    "timestamp": 1671557538
   }
 }
